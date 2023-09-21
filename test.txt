@@ -3,4 +3,3 @@ v1
 perfect
 add 20
 change
-git pull & git fetch & git merge
